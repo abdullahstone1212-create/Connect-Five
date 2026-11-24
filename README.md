@@ -2,7 +2,7 @@ CONNECT FIVE :
 
 PROJECT PURPOSE AND OVERVIEW : 
 
-Connect Five is a two-player strategy game. The board is 8 rows x 9 columns (72 cells). Player 1 plays X (Red) and Player 2 plays O (Yellow). Players take turns dropping a piece into a column. The piece falls to the lowest empty cell. The first player to get 5 in a row horizontally, vertically, or diagonally wins. If all 72 cells are filled with no winner, the game is a Draw. The game shows the turn, highlights the winning 5 cells, plays sounds,and has a Play Again button.
+Connect Five is a two-player strategy game. The board is 8 rows x 9 columns (72 cells). Player 1 plays X (Red) and Player 2 plays O (Yellow). Players take turns dropping a piece into a column. The piece falls to the lowest empty cell. The first player to get 5 in a row horizontally, vertically, or diagonally wins. If all 72 cells are filled with no winner, the game is a Draw. The game shows the turn, highlights the winning 5 cells, plays sounds,confetti and has a Play Again button.
 
  PREREQUISITES :
  
